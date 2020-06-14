@@ -1,0 +1,17 @@
+{
+  "name": "ipl",
+  "version": "1.0.0",
+  "description": "ipl datset viz",
+  "main": "index.js",
+  "scripts": {
+    "ipl": "dataset",
+    "start": "http-server"
+  },
+  "keywords": [],
+  "author": "aryan raj",
+  "license": "ISC",
+  "dependencies": {
+    "csvtojson": "^2.0.10",
+    "http-server": "^0.12.3"
+  }
+}
